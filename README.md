@@ -111,4 +111,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ## **Catatan**
 
 - Aplikasi ini dibuat untuk membantu tracking kegiatan Ramadan secara sederhana.
-- Jika ada bug atau saran, silakan buka [issue](https://github.com/username/target-ramadan/issues).
+- Jika ada bug atau saran, silakan buka [issue](https://github.com/sasakiRoo/target-ramadan/issues).
